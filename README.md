@@ -6,12 +6,19 @@ This project features an interactive and dynamic **Sales Dashboard** built using
 
 ## 📁 Dataset
 
-The data was imported from a structured **MySQL database** (see `328241e1-b656-4fd5-9508-e5aead4c6ea9.sql`). It includes information related to:
+The data was imported from a structured **MySQL database** (see `db_dump.sql`). It includes information related to:
 
 - Sales transactions
 - Products and categories
 - Customer details
 - Dates and order timelines
+
+---
+
+## 📚 Data Source
+
+This project's data was sourced from the [Sales Insights Project](https://codebasics.io/resources/sales-insights-data-analysis-project) by [Codebasics](https://codebasics.io/).  
+The original database dump (`db_dump.sql`) is publicly available for educational and non-commercial use.
 
 ---
 
@@ -44,7 +51,7 @@ The data was imported from a structured **MySQL database** (see `328241e1-b656-4
 
 ## 💡 Learnings
 
-This project enhanced my understanding of data visualization best practices, efficient data modeling, and the power of combining SQL with BI tools to extract actionable business insights.
+This project enhanced my understanding of data visualization best practices, efficient data modeling, and the power of combining SQL with BI tools to extract interactive business insights.
 
 ---
 
@@ -54,3 +61,19 @@ This project enhanced my understanding of data visualization best practices, eff
 ├── Sales-Dashboard.pbix           # Power BI file
 ├── db_dump.sql                    # MySQL database dump file
 └── README.md                      # Project overview
+```
+
+---
+
+### 📊 Dashboard Overview
+
+#### 📌 Page 1 – Overall Performance and Distribution
+![Monthly Sales](dashboard-preview1.png)
+
+#### 📌 Page 2 – Top Performing Products and Category Sold
+![Top Products](dashboard-preview2.png)
+
+#### 📌 Page 3 – Revenue & Sales Distribution Over Time
+![Category Breakdown](dashboard-preview3.png)
+
+---
