@@ -68,12 +68,15 @@ This project enhanced my understanding of data visualization best practices, eff
 ### 📊 Dashboard Overview
 
 #### 📌 Page 1 – Overall Performance and Distribution
-![Monthly Sales](dashboard-preview1.png)
+![dashboard-preview1](https://github.com/user-attachments/assets/3f69de5a-9299-428a-a1de-0cc56591bdfd)
+
 
 #### 📌 Page 2 – Top Performing Products and Category Sold
-![Top Products](dashboard-preview2.png)
+![dashboard-preview2](https://github.com/user-attachments/assets/9fc55786-55a9-4a91-8a45-f9ab0c49ed24)
+
 
 #### 📌 Page 3 – Revenue & Sales Distribution Over Time
-![Category Breakdown](dashboard-preview3.png)
+![dashboard-preview3](https://github.com/user-attachments/assets/0dc221a1-9f28-41d0-8f6b-e2773b949e5d)
+
 
 ---
